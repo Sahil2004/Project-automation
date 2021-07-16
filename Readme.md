@@ -8,4 +8,4 @@ To set it according to your needs:
 3) Edit the paths accordingly in lines 13, 15, 41, 44.
 
 # Contribution
-Wanna contribute? I have archived it. DM me on twitter @real_SahilGarg and I will restore it back to normal so you can send a PR.
+You can contribute in any way you want. It is under GPL-3 :)
